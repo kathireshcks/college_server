@@ -1,0 +1,6 @@
+[
+    "/api/login",
+    "/api/test",
+    "/api/download/examdetails",
+    "/api/download/studentlist"
+]

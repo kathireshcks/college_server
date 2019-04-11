@@ -1,0 +1,31 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "auth",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "kathir",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "body-parser": "^1.18.3",
+    "cjson": "^0.5.0",
+    "cluster": "^0.7.7",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "json2xls": "^0.1.2",
+    "mongoose": "^5.2.12",
+    "net": "^1.0.2",
+    "node-cache": "^4.2.0",
+    "nodemailer": "^5.1.1",
+    "os": "^0.1.1",
+    "tracer": "^0.9.8",
+    "uuid": "^3.3.2"
+  }
+}
